@@ -12,6 +12,9 @@ A small collection of all the open source mods i've worked on (forge).
 
 For older versions, there should be a zip file named `downloads.zip` containing all past and current versions of each mod, in each mod's respective repositories. If there isn't, that means the there was only one version of the mod ever created (AKA. the latest download).
 
+A changelog for each mod version should be included in each of the mod's respective folders.
+
+
 ### None of these mods are updated anymore.
 
 
