@@ -10,7 +10,7 @@ A small collection of all the open source mods i've worked on
 - Ghost Tracker Mod [Latest Download](https://github.com/ddozzi/Mods/releases/tag/GT-1.0.0)
 - SkillXP Mod [Latest Download](https://github.com/ddozzi/Mods/releases/tag/SX-0.0.2)
 
-For older versions, look for the download folder under each mod's respective folder. 
+For older versions, there should be a zip file named `downloads.zip` containing all past and current versions of each mod, in each mod's respective repositories.
 
 ### None of these mods are updated anymore.
 
