@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ghostgrouper",
+  "name": "Ghost Grouper",
+  "description": "A mod that groups ghosts and displays their total health as a group.",
+  "version": "${1.0}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DDOZZI"],
+  "credits": "To DDOZZI for developing everything.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
